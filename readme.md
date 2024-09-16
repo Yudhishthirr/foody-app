@@ -1,5 +1,6 @@
 # Food Ordering App
 
+![Food Ordering App Logo](public/foodapp.jpg)
 A Next.js-based food ordering application, similar to Swiggy, allowing users to browse and order food from a variety of restaurants. This app features a seamless user experience with real-time updates and secure payments via Stripe.
 
 ## Features
